@@ -12,7 +12,7 @@ You can view the live version of my portfolio here: [Portfolio Link](https://asm
 - Responsive design, making the website accessible on mobile and desktop devices.
 - Interactive sections showcasing:
   - About Me
-  - Projects
+  - hobbies
   - Skills
   - Contact Form
 
